@@ -1,2 +1,2 @@
 # COMP-4200
-COMP 4200 Formal languages with Hugh Sy Kwon
+COMP 4200 Formal languages with Hugh Sy Kwon Fall 2023
